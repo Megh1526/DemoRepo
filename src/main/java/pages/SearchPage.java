@@ -5,5 +5,8 @@ public class SearchPage {
 	public void searchpage() {
 		System.out.println("searchpage");
 	}
-	
+
+	public SearchPage() {
+		
+	}
 }
